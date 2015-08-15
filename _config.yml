@@ -11,8 +11,8 @@ theme:
 
   # Header and footer text
   header_text: >
-     <h1>New & Upcoming Rails Developer</h1>
-     <p>I'm a brand new developer specializing in Rails and Game Development.</p>
+     <h1>Ruby on Rails Web Developer</h1>
+     <p>I am a developer specializing in Rails Web Development.</p>
   header_text_feature_image: 
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a>.
@@ -28,7 +28,7 @@ theme:
   github: FosterKizer
   google_plus:
   instagram: 
-  linkedin:  https://www.linkedin.com/hp/?dnr=6vK-3Ef_6CS6xE2V1vF03D2l6CO0tDrvHwKR
+  linkedin:  http://www.linkedin.com/in/FosterKizer
   pinterest:
   reddit:
   soundcloud:
