@@ -9,4 +9,4 @@ My name is Foster Kizer, and I'm beginning the journey that is Game and Software
 
 My goal by doing this blog is to be able to design or program at a level that I could be employed by a company that could see my skill for what they are, hard work and dedication. I want to work somewhere that does not just look at a piece of paper to determine who you are, but looks at your background and gets in touch with you for questions that arise. I can prove to anyone that I am passionate about what I do, and am excited to get going on this extremely cool adventure that is programming and development.
 
-I am currently looking for employment in the Eugene area, and will happily answer any questions from propective employers. Feel free to **[contact](../contact/)** me at any time.
+I am currently developing my first game for my own company K.Bit Games. Feel free to [contact](../contact/) me at any time.
