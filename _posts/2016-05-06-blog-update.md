@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DebBlog Update
+title: DevBlog Update
 ---
 
 I am proud to annouce that I have gotten far enough into the development into this game that I feel comfortable publishing an early build of the game. If you are using Chrome, you won't be able to play the game, so simply switch to using IE or Firefox.
