@@ -14,7 +14,7 @@
     a {
       font-size:0.8em;
       text-transform: uppercase;
-      color:#d8d8d8;
+      color:#9a9a9a;
     }
   }
   ul {
@@ -90,6 +90,10 @@
       display: inline-block;
       @media (max-width: 768px) {
         width:99%;
+        img {
+          width:99%;
+          height:99%;
+        }
       }
       img {
         display:block;

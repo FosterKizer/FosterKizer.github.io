@@ -55,6 +55,12 @@ header {
 }
 
 .post-content {
+  @media(max-width:786px){
+    img {
+      width:99%;
+      height:99%;
+    }
+  }
   form {
       input[type="text"], input[type="email"] {
         width:100%;
