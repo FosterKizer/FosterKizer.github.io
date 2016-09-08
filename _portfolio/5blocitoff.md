@@ -12,6 +12,7 @@ height: 550px
 <img src="/img/Blocitoff-img.png" alt="Bloccit" align="middle" width="800px" height="550px"/>
 
 <br />
+
 ### Description
 A self-destructing to-do list created using Ruby on Rails. With this web app; you can create to-do items for yourself to follow. However, if after 7 day you do not complete the item. The application will automatically delete it. The hope is for the user to continuously be working at finishing items so that nothing gets automatically deleted.
 

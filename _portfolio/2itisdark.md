@@ -11,6 +11,8 @@ height: 568px
 {:.center}
 <img src="/img/640x1136 dark Screenshot.png" alt="Survival Match" align="middle" width="320px" height="568px"/>
 
+<br />
+
 ### Description
 It Is Dark... You wake up in a clearing with no memory of what has happened. Try to survive against creatures in the wilderness, hunger, and the dark unknown.
 

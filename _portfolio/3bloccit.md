@@ -12,6 +12,7 @@ height: 550px
 <img src="/img/Bloccit-img.png" alt="Bloccit" align="middle" width="800px" height="550px"/>
 
 <br />
+
 ### Description
 Bloccit is my very first website created using Ruby on Rails. It is a clone of popular social media site Reddit. It allows users to create posts, assign them to topics, and comment on other user's posts. There is a voting mechanic so that more popular posts get higher visibility, and there are personal profiles that each user can sign in to.
 

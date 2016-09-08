@@ -12,6 +12,7 @@ height: 550px
 <img src="/img/Blocipedia-img.png" alt="Bloccit" align="middle" width="800px" height="550px"/>
 
 <br />
+
 ### Description
 A public wiki site made to use markdown for the individual wikis. Also if the user pays for premium service, they can create private wikis and can invite non-paying users to edit and view them.
 

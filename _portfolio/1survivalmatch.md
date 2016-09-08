@@ -11,6 +11,8 @@ height: 568px
 {:.center}
 <img src="/img/640x1136 Screenshot1.png" alt="Survival Match" align="middle" width="320px" height="568px"/>
 
+<br />
+
 ### Description
 Survive as long as you can on a planet infested with deadly creatures. Match icons to attack, defend, and heal yourself against a variety of different monsters. Level up to combat the more difficult entities you encounter. Each time you play is different!
 
